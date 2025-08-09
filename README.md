@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=activex37b&show_icons=true&locale=en&layout=compact" alt="activex37b" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=activex37b&show_icons=true&locale=en" alt="activex37b" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=activex37b&show_icons=true&locale=en" alt="activex37b" /></p>
 
 
 
