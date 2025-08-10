@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=activex37b" alt="activex37b" /></a> </p>
 
-- 🔭 I’m currently working on **custom SIEM snort and zeek ids**
+- 🔭 I’m currently working on **custom SIEM  for snort and zeek ids for better data correlations and network detection for my own understanding of SIEM**
 
 - 🌱 I’m currently learning **artificial intelligence**
 
